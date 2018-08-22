@@ -15,6 +15,7 @@ for (var i = 0; i < names.length; i++){
 	else
 		console.log("hello "+names[i]);
 }
+//if we want to take input from console.
 function check(name){
 	if(name[0]=="j"||name[0]=="J"){
 	
